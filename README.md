@@ -5,4 +5,5 @@ The existing Android app is insuficient for the existing users and so I decided 
 
 There's no relation at all between me and the author of the Master Thesis and all credits should go to Tiago Peralta.
 
+[Web version](https://arcg.is/1qX4rr)
 [Master Thesis with the abstract in Portuguese and English](https://repositorio.ul.pt/handle/10451/37087)
